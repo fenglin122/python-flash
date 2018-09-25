@@ -1,0 +1,1 @@
+[{"target":"dayworkhour", "datapoints":[[1025,1531584000000]]}]
